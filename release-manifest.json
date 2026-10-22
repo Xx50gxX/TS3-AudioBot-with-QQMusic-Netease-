@@ -1,0 +1,116 @@
+{
+  "version": "2026.10.21",
+  "target": "TS3AudioBot 0.12.0 Windows x64",
+  "files": [
+    {
+      "sha256": "A4BCCB5C042580F1DB659C6FB5B5A8EC1F3EF4E93662BD0779E2A002859436DD",
+      "bytes": 23040,
+      "path": "bin/ffmpeg-normalized.exe"
+    },
+    {
+      "sha256": "A07A00C19385E8451E2A0E8343B94FE6B81F757C63DCB942D93E65A01176F834",
+      "bytes": 135680,
+      "path": "bin/MusicAiCommands.dll"
+    },
+    {
+      "sha256": "C7F4B6D155373730467D6AEF50ACCA6695200F49E7F7B4DCC41C2888C6C228F4",
+      "bytes": 29696,
+      "path": "bin/NowPlayingDisplay.dll"
+    },
+    {
+      "sha256": "467981B17CB37BCDEFBE7DBC6D1F8FA1376A4B0FBD7A8B43CFF10BF6679B9B84",
+      "bytes": 47616,
+      "path": "bin/SoundEffectsCommands.dll"
+    },
+    {
+      "sha256": "B95DEFD1389CFA2B2FFB558DF4553668B65D0669657BF325855A662CC69DB8A0",
+      "bytes": 13253,
+      "path": "src/EntrySoundEffects.cs"
+    },
+    {
+      "sha256": "236D2BBA75D797385A26ADD10BC00D3E443ECE9F78E6E6C00B672B480898BADF",
+      "bytes": 19745,
+      "path": "src/FfmpegNormalizer.cs"
+    },
+    {
+      "sha256": "4CFDF508409406442CB6E02B1D549782066BEAC0A3011682903E3BA77BEBBD6B",
+      "bytes": 3812,
+      "path": "src/LoudnessCommands.cs"
+    },
+    {
+      "sha256": "A28E4037FBDD1DF04F84755E933650309D6C54C1CA24504F46CDC31B13AFD5EF",
+      "bytes": 121672,
+      "path": "src/MusicAiCommands.cs"
+    },
+    {
+      "sha256": "AF4172D39AD2008E72A9CB92CF5A17421EDFC2D51E9330E78BA9C5ED53E49638",
+      "bytes": 22790,
+      "path": "src/MusicHelpCommands.cs"
+    },
+    {
+      "sha256": "A01E026E560A5E222F7C5119D8198FCD8D9FA966199E61969978C41CED6B310E",
+      "bytes": 11734,
+      "path": "src/MusicHelpGuide.cs"
+    },
+    {
+      "sha256": "4FB6BFA0AF94FABA05377DB71C539EE35AFB5F40FF7966C86465553744D8A98B",
+      "bytes": 18460,
+      "path": "src/MusicLibraryCommands.cs"
+    },
+    {
+      "sha256": "80BD1AB8EEF52F9457B7B5D887BBBAB225316D556564603C1532A7943926EE4B",
+      "bytes": 4366,
+      "path": "src/MusicQueuePreview.cs"
+    },
+    {
+      "sha256": "EEBB4F7F77230C0E11C6CBCA3BAF175DC105653688DB2EA13F8FEA7BF3021A19",
+      "bytes": 23912,
+      "path": "src/NeteaseMusicResolver.cs"
+    },
+    {
+      "sha256": "F12CD105F64C772ACF3E8E281C5D310C47B4C9393855BE2B4081A10BCA31B50B",
+      "bytes": 19082,
+      "path": "src/NowPlayingDisplay.cs"
+    },
+    {
+      "sha256": "DCB32CA6C98088CDC65CD7A3EE7C4CFA4377182CDDCBCF6E04D5D80B9B29EF5D",
+      "bytes": 61085,
+      "path": "src/QQMusicResolver.cs"
+    },
+    {
+      "sha256": "A51B3A1DAE5C4147D08BEF092FCB008A4A3457895A713EDC28CF58063580CEFE",
+      "bytes": 3966,
+      "path": "src/QQPlaylistCommands.cs"
+    },
+    {
+      "sha256": "E5C84839ED15BCC1F7F0E16B497776C317AFE3C533E7DACA2E0227C419004CA1",
+      "bytes": 32798,
+      "path": "src/SoundEffectsCommands.cs"
+    },
+    {
+      "sha256": "B996FD0AE1B60EB216BD7FCDC04BDD0D5668123804C951CF0FBA14EB5C93A420",
+      "bytes": 96044,
+      "path": "assets/提示音.wav"
+    },
+    {
+      "sha256": "0A6CBDA2CB40F4BFA0949A1189D5B7FC918B0F91D3D945D29C4D19242FFF56BE",
+      "bytes": 272,
+      "path": "examples/ai-settings.example.json"
+    },
+    {
+      "sha256": "1BCDCD9082FF35800539B3FB253C9D41F6C989700029764AA69F2DB22CDF80A9",
+      "bytes": 1183,
+      "path": "examples/bot.toml"
+    },
+    {
+      "sha256": "C3773981E7ACA48337EDBDE0679D018B816919D735A588A3B628C8DA8BE013A5",
+      "bytes": 726,
+      "path": "examples/rights.toml"
+    },
+    {
+      "sha256": "20A6BF786DE199431A3E13A151C3066038AF16A334D1F73F6935FEE8D13925AB",
+      "bytes": 288,
+      "path": "examples/ts3audiobot.toml"
+    }
+  ]
+}

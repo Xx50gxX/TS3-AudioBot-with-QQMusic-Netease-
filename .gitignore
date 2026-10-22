@@ -1,0 +1,23 @@
+# Generated, personal and downloaded data
+/runtime/
+/downloads/
+/diagnostics/
+/.verification/
+/.build-cache/
+/installation.json
+*.zip
+*.bak
+*.tmp
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.local.*
+.env
+.env.*
+**/*cookies*.txt*
+**/ai-deepseek-key.txt*
+**/entry-sounds.tsv*
+**/music-library.tsv*
+.vs/
+.vscode/
